@@ -33,8 +33,8 @@ I also bring a creative edge through video editing, photo editing, and content c
 
 ### 🌟 Featured Project
 
-#### oundich Leather Works
-> A showcase of craftsmanship and creativity, blending modern web development with traditional artistry. *(Add a link or repo here if available!)*
+#### Foundich Leather Works
+> A showcase of craftsmanship and creativity, blending modern web development with traditional artistry. *(https://foundichleatherworks.vercel.app)*
 
 ---
 
