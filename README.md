@@ -50,6 +50,9 @@ I also bring a creative edge through video editing, photo editing, and content c
 🤖 I also integrate AI chatbots and real-time payment systems into modern apps.
 
 
+---
+
+
 
 ### 📱 Connect with Me
 
