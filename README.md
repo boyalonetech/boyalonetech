@@ -38,7 +38,25 @@ I also bring a creative edge through video editing, photo editing, and content c
 
 ---
 
+###💻 What I Do
+⚡ I build responsive websites and web apps that look great and perform even better.
+
+🔥 I create seamless user experiences with intuitive interfaces and fast load times.
+
+🌐 I work with Next.js and Firebase to build full-stack apps with authentication, database, and storage.
+
+🛍️ I'm currently building Foundich, a professional e-commerce platform for handcrafted shoes.
+
+🤖 I also integrate AI chatbots and real-time payment systems into modern apps.
+
+
+
 ### 📱 Connect with Me
+
+💼 GitHub: (https://github.com/boyalonetech)
+📧 Email: boyalonetechs@gmail.com
+📱 Phone: 08161514098
+🌍 Portfolio: (https://boyalonetechs.netlify.app)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://x.com/eriq_lay?s=09)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/boya1one)
