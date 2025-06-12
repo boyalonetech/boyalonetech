@@ -54,8 +54,11 @@ I also bring a creative edge through video editing, photo editing, and content c
 ### 📱 Connect with Me
 
 💼 GitHub: (https://github.com/boyalonetech)
+
 📧 Email: boyalonetechs@gmail.com
+
 📱 Phone: 08161514098
+
 🌍 Portfolio: (https://boyalonetechs.netlify.app)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://x.com/eriq_lay?s=09)
