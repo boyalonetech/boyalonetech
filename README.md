@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Boy Alone Tech!</h1>
+
+<p align="center">
+  <b>Passionate Frontend Web Developer | Digital Creative | Tech Enthusiast from Nigeria 🇳🇬</b>
+</p>
+
+---
+
+### 🚀 About Me
+
+I am a passionate frontend developer based in Nigeria, specializing in modern, responsive, and user-friendly web applications. With strong skills in **React**, **Next.js**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I love turning ideas into beautiful digital experiences. 
+
+I also bring a creative edge through video editing, photo editing, and content creation—enabling a well-rounded approach to digital projects. I’m experienced in integrating **Firebase** for backend services and building full-stack solutions.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff)
+
+---
+
+### 🌟 Featured Project
+
+#### oundich Leather Works
+> A showcase of craftsmanship and creativity, blending modern web development with traditional artistry. *(Add a link or repo here if available!)*
+
+---
+
+### 📱 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://x.com/eriq_lay?s=09)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/boya1one)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/eriq_lay?igsh=OGQ5ZDc2ODk2ZA==)
+[![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@eriq_lay?si=uy7Zrkt3O5R77lzm)
+
+---
 
 <!--
-**boyalonetech/boyalonetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**boyalonetech/boyalonetech** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
