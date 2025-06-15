@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Divine! h1>
+<h1 align="center">👋 Hi, I'm Divine! <h1>
 
 <p align="center">
   <b>Passionate Frontend Web Developer | Digital Creative | Tech Enthusiast from Nigeria 🇳🇬</b>
