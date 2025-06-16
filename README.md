@@ -38,7 +38,7 @@ I also bring a creative edge through video editing, photo editing, and content c
 
 ---
 
-###💻 What I Do
+### 💻 What I Do
 ⚡ I build responsive websites and web apps that look great and perform even better.
 
 🔥 I create seamless user experiences with intuitive interfaces and fast load times.
