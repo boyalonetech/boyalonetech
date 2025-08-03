@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Divine ! <h1>
-
 <p align="center">
-  <b>I am a Passionate <br>
+  <b>I am a Passionate 
     Frontend Web Developer | SEO Engineer | Digital Creative </b>
 </p>
 
