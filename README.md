@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Divine ! <h1>
 <p align="center">
   <b>
-    Frontend Web Developer | SEO Engineer | Digital Creative </b>
+     Web Developer | SEO Engineer | App Developer </b>
 </p>
 
 ---
