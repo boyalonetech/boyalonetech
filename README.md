@@ -64,10 +64,10 @@ I also bring a creative edge through video editing, photo editing, and content c
 
 🌍 Portfolio: (https://boyalonetechs.onrender.com)
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://x.com/eriq_lay?s=09)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://x.com/boyalonetechs?s=09)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/boya1one)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/eriq_lay?igsh=OGQ5ZDc2ODk2ZA==)
-[![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@eriq_lay?si=uy7Zrkt3O5R77lzm)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/boyalonetechs?igsh=OGQ5ZDc2ODk2ZA==)
+[![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@BoyAloneTech?si=uy7Zrkt3O5R77lzm)
 
 ---
 
