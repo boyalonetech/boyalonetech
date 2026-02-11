@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a passionate frontend developer based in Nigeria, specializing in modern, responsive, and user-friendly web applications. With strong skills in **React**, **React Native**, **Flutter(beginer)**, **Next.js**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I love turning ideas into beautiful digital experiences. 
+I am a passionate frontend developer based in Nigeria, specializing in modern, responsive, and user-friendly web applications. With strong skills in **React**, **React Native**, **Flutter(begineer)**, **Next.js**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I love turning ideas into beautiful digital experiences. 
 
 I also bring a creative edge through video editing, photo editing, and content creation—enabling a well-rounded approach to digital projects. I’m experienced in integrating **Firebase** for backend services and building full-stack solutions.
 
