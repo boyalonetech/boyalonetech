@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a passionate frontend developer based in Nigeria, specializing in modern, responsive, and user-friendly web applications. With strong skills in **React**, **React Native**, **Flutter(begineer)**, **Next.js**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I love turning ideas into beautiful digital experiences. 
+I am a passionate frontend developer based in Nigeria, specializing in modern, responsive, and user-friendly web applications. With strong skills in **React**, **React Native**, **Flutter (beginner)**, **Next.js**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I love turning ideas into beautiful digital experiences. 
 
 I also bring a creative edge through video editing, photo editing, and content creation—enabling a well-rounded approach to digital projects. I’m experienced in integrating **Firebase** for backend services and building full-stack solutions.
 
@@ -24,6 +24,10 @@ I also bring a creative edge through video editing, photo editing, and content c
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
@@ -33,8 +37,8 @@ I also bring a creative edge through video editing, photo editing, and content c
 
 ### 🌟 Featured Project
 
-#### Foundich Leather Works
-> A showcase of craftsmanship and creativity, blending modern web development with traditional artistry. *(https://foundichleatherworks.vercel.app)*
+#### Fresh4Less
+> A modern e-commerce platform focused on delivering fresh products with speed, reliability, and a seamless user experience. *(https://fresh4less.vercel.app)*
 
 ---
 
@@ -43,16 +47,13 @@ I also bring a creative edge through video editing, photo editing, and content c
 
 🔥 I create seamless user experiences with intuitive interfaces and fast load times.
 
-🌐 I work with Next.js and Firebase to build full-stack apps with authentication, database, and storage.
+🌐 I work with Next.js, Node.js, PostgreSQL, and Firebase to build full-stack apps with authentication, database, and storage.
 
-🛍️ I'm currently building Foundich, a professional e-commerce platform for handcrafted shoes.
+🛍️ I'm currently building Fresh4Less, a modern e-commerce platform for fresh product delivery.
 
 🤖 I also integrate AI chatbots and real-time payment systems into modern apps.
 
-
 ---
-
-
 
 ### 📱 Connect with Me
 
