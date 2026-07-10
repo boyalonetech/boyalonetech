@@ -1,20 +1,55 @@
 <p align="center">
   <a href="https://github.com/boyalonetechs">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=538&text=Hi%2C%20I'm%20Divine" alt="Hi, I&#39;m Divine" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=fff&fontSize=54&height=90&width=538&text=Hi%2C%20I'm%20Divine" alt="Hi, I&#39;m Divine" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=805&height=44&lines=Software%20Developer%20%7C%20SEO%20Engineer%20%7C%20DevOps%20Engineer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=fff&center=true&vCenter=true&width=805&height=44&lines=Software%20Developer%20%7C%20SEO%20Engineer%20%7C%20DevOps%20Engineer" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
 
-I am a Full Stack Developer, specializing in building modern, scalable, and user-centric web applications. With a strong command of both mobile apps, frontend and backend technologies, I design and implement complete digital solutions  from intuitive user interfaces to robust server-side architectures and cloud infrastructure.
 
-🔭 &nbsp;I'm currently working on **Multiplayer Gaming Platform — Developing a real-time multiplayer gaming platform with seamless gameplay, matchmaking, leaderboards, and live interactions.**  
-🌱 &nbsp;I'm currently learning **Rust and C++**  
-💬 &nbsp;Ask me about **Apps, Webs, Project Architure**
+
+---
+
+### 👋 About Me
+
+I am a **Full Stack Developer**, specializing in building modern, scalable, and user-centric web applications. With a strong command of both mobile apps, frontend and backend technologies, I design and implement complete digital solutions from intuitive user interfaces to robust server-side architectures and cloud infrastructure.
+
+I enjoy working on complex projects that combine clean architecture with great user experiences.
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=boyalonetechs&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+
+### 🚀 Currently Working On
+
+- **Multiplayer Gaming Platform** — Building a real-time multiplayer gaming platform with seamless gameplay, matchmaking, leaderboards, and live player interactions.
+
+- **Networking Social Platform** — Developing a modern social networking platform focused on professional and community connections with real-time engagement.
+
+- **AI Model** — Working on an AI model to power intelligent features such as recommendations, matchmaking, and personalization.
+
+---
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=boyalonetechs&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=boyalonetechs&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+
+
+
+
 
 ### 🛠️ Tech Stack
 
@@ -53,6 +88,17 @@ I am a Full Stack Developer, specializing in building modern, scalable, and user
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+
+
+---
+
+
 ### 🔗 Connect With Me
 
 <p align="left">
@@ -64,24 +110,4 @@ I am a Full Stack Developer, specializing in building modern, scalable, and user
   <a href="mailto:boyalonetechs@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=boyalonetechs&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=boyalonetechs&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=boyalonetechs&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
 <p align="center"><i>⭐️ From <a href="https://github.com/boyalonetechs">boyalonetechs</a></i></p>
