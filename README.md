@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/boyalonetechs">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontSize=54&height=90&width=538&text=Hi%2C%20I'm%20Divine" alt="Hi, I&#39;m Divine" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2e7d32&fontSize=54&height=90&width=538&text=Hi%2C%20I'm%20Divine" alt="Hi, I&#39;m Divine" />
   </a>
 </p>
 
