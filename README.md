@@ -24,16 +24,48 @@ I enjoy working on complex projects that combine clean architecture with great u
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C83F6&height=100&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ED4003&height=100&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontAlignY=35" width="100%" />
 </p>
 
-- **Multiplayer Gaming Platform** — Building a real-time multiplayer gaming platform with seamless gameplay, matchmaking, leaderboards, and live player interactions.
+<table border="0" align="center" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <td width="28%" align="center" valign="top" style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; background-color: #fafafa;">
+      <!-- <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="48" alt="Gaming" />
+      </p> -->
+      <h4>Multiplayer Gaming Platform</h4>
+      <p style="font-size: 13px; color: #555;">
+        Building a real-time multiplayer gaming platform with seamless gameplay, matchmaking, leaderboards, and live player interactions.
+      </p>
+    </td>
+    <td width="4%" align="center" valign="middle">
+      <b style="font-size: 20px; color: #888;">—</b>
+    </td>
+    <td width="28%" align="center" valign="top" style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; background-color: #fafafa;">
+      <!-- <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="48" alt="Networking" />
+      </p> -->
+      <h4>Networking Social Platform</h4>
+      <p style="font-size: 13px; color: #555;">
+        Developing a modern social networking platform focused on professional and community connections with real-time engagement.
+      </p>
+    </td>
+    <td width="4%" align="center" valign="middle">
+      <b style="font-size: 20px; color: #888;">—</b>
+    </td>
+    <td width="28%" align="center" valign="top" style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; background-color: #fafafa;">
+      <!-- <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Tech/Robot.png" width="48" alt="AI Model" />
+      </p> -->
+      <h4>AI Model</h4>
+      <p style="font-size: 13px; color: #555;">
+        Working on an AI model to power intelligent features such as recommendations, matchmaking, and personalization.
+      </p>
+    </td>
+  </tr>
+</table>
 
-- **Networking Social Platform** — Developing a modern social networking platform focused on professional and community connections with real-time engagement.
-
-- **AI Model** — Working on an AI model to power intelligent features such as recommendations, matchmaking, and personalization.
-
----
+<hr />
 
 
 ### 📊 GitHub Stats
@@ -47,44 +79,95 @@ I enjoy working on complex projects that combine clean architecture with great u
 
 
 
-
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-2e7d32?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-2e7d32?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-2e7d32?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Dart-2e7d32?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-2e7d32?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-2e7d32?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-2e7d32?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-2e7d32?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/React-2e7d32?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-2e7d32?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-2e7d32?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-2e7d32?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-2e7d32?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/React%20Native-2e7d32?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/Flutter-2e7d32?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/PostgreSQL-2e7d32?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-2e7d32?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Redis-2e7d32?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQLite-2e7d32?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/AWS-2e7d32?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Cloudflare-2e7d32?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Vercel-2e7d32?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Docker-2e7d32?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Netlify-2e7d32?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/DigitalOcean-2e7d32?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-  <img src="https://img.shields.io/badge/VS%20Code-2e7d32?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-2e7d32?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-2e7d32?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-2e7d32?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-2e7d32?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Postman-2e7d32?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-2e7d32?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- 1. Frontend -->
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <h4 style="margin-top: 0; color: #3C83F6;">💻 Frontend</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/React-3C83F6?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-E83F01?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+                <img src="https://img.shields.io/badge/HTML5-E83F01?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-3C83F6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-3C83F6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </p>
+    </td>
+    <!-- 2. Backend -->
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <h4 style="margin-top: 0; color: #E83F01;">⚙️ Backend</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Node.js-E83F01?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-3C83F6?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-E83F01?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Supabase-3C83F6?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Redis-E83F01?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/SQLite-3C83F6?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <!-- 3. Mobile -->
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <h4 style="margin-top: 0; color: #3C83F6;">📱 Mobile</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/React%20Native-3C83F6?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+        <img src="https://img.shields.io/badge/Flutter-E83F01?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      </p>
+    </td>
+    <!-- 4. Languages -->
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <h4 style="margin-top: 0; color: #E83F01;">🔤 Languages</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/TypeScript-E83F01?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Python-3C83F6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Rust-E83F01?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Dart-3C83F6?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 
+        <img src="https://img.shields.io/badge/SQL-E83F01?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Bash-3C83F6?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+      </p>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <!-- Cloud & Storage -->
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <h4 style="margin-top: 0; color: #3C83F6;">☁️ Cloud & Storage</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/AWS-3C83F6?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Cloudflare-E83F01?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+        <img src="https://img.shields.io/badge/Cloudinary-3C83F6?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+        <img src="https://img.shields.io/badge/Wasabi-E83F01?style=for-the-badge&logo=wasabi&logoColor=white" alt="Wasabi" />
+        <img src="https://img.shields.io/badge/Vercel-3C83F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Docker-E83F01?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Netlify-3C83F6?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+        <img src="https://img.shields.io/badge/DigitalOcean-E83F01?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+      </p>
+    </td>
+    <!-- Version Control -->
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <h4 style="margin-top: 0; color: #E83F01;">🌿 Version Control</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Git-E83F01?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-3C83F6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitLab-E83F01?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+      </p>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <!-- Tools & Design -->
+    <td colspan="2" width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <h4 style="margin-top: 0; color: #3C83F6;">🎨 Tools & Design</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/VS%20Code-3C83F6?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Linux-E83F01?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+        <img src="https://img.shields.io/badge/Postman-3C83F6?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Figma-E83F01?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ### 💭 Dev Quote
