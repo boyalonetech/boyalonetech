@@ -19,12 +19,12 @@ I enjoy working on complex projects that combine clean architecture with great u
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=boyalonetechs&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=boyalonetechs&bg_color=00000000&color=3C83F6&line=3C83F6&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C83F6&height=100&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontAlignY=35" width="100%" />
 </p>
 
 - **Multiplayer Gaming Platform** — Building a real-time multiplayer gaming platform with seamless gameplay, matchmaking, leaderboards, and live player interactions.
