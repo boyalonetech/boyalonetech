@@ -1,13 +1,8 @@
 <p align="center">
   <a href="https://github.com/boyalonetechs">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2e7d32&fontSize=54&height=90&width=538&text=Hi%2C%20I'm%20Divine" alt="Hi, I&#39;m Divine" />
+    <img src="https://pbs.twimg.com/profile_banners/1738800095389224960/1786660168/1500x500" alt="Divine - Software Developer | SEO Engineer | DevOps Engineer" width="100%" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2e7d32&center=true&vCenter=true&width=805&height=44&lines=Software%20Developer%20%7C%20SEO%20Engineer%20%7C%20DevOps%20Engineer" alt="Typing headlines" />
-</p>
-
 
 
 
