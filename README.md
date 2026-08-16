@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/boyalonetechs">
-    <img src="https://pbs.twimg.com/profile_banners/1738800095389224960/1786660168/1500x500" alt="Divine - Software Developer | SEO Engineer | DevOps Engineer" width="100%" />
+    <img src="https://pbs.twimg.com/profile_banners/1738800095389224960/1786660168/1500x500" alt="Divine - Software Developer | SEO Engineer | DevOps Engineer" width="100%" style="border-radius: 50%;" />
   </a>
 </p>
 
@@ -83,7 +83,7 @@ I enjoy working on complex projects that combine clean architecture with great u
     </td>
     <td valign="top" align="left">
       <strong>🔤 Languages</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,py,rust,dart,mysql,bash" />
+      <img src="https://skillicons.dev/icons?i=ts,js,py,rust,dart,mysql,bash" />
     </td>
   </tr>
   <tr>
