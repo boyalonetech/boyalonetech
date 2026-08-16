@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-I am a **Full Stack Developer**, specializing in building modern, scalable, and user-centric web applications. With a strong command of both mobile apps, frontend and backend technologies, I design and implement complete digital solutions from intuitive user interfaces to robust server-side architectures and cloud infrastructure.
+I am a **Full Stack Developer**, specializing in building modern, scalable, and user-centric  applications. With a strong command of both mobile apps, frontend and backend technologies, I design and implement complete digital solutions from intuitive user interfaces to robust server-side architectures and cloud infrastructure.
 
 I enjoy working on complex projects that combine clean architecture with great user experiences.
 
