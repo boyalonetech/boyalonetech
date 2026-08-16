@@ -4,8 +4,6 @@
   </a>
 </p>
 
-
-
 ---
 
 ### 👋 About Me
@@ -22,153 +20,137 @@ I enjoy working on complex projects that combine clean architecture with great u
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=boyalonetechs&bg_color=00000000&color=3C83F6&line=3C83F6&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ED4003&height=100&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E83F01&height=100&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontAlignY=35" width="100%" />
 </p>
 
-<table border="0" align="center" style="border-collapse: collapse; text-align: center;">
+<table border="0" align="center" style="border-collapse: collapse; text-align: center; width: 100%;">
   <tr>
-    <td width="28%" align="center" valign="top" style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; background-color: #fafafa;">
-      <!-- <p align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="48" alt="Gaming" />
-      </p> -->
-      <h4>Multiplayer Gaming Platform</h4>
-      <p style="font-size: 13px; color: #555;">
+    <td width="30%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <h4 style="color: #3C83F6; margin-top: 0;">Multiplayer Gaming Platform</h4>
+      <p style="font-size: 13px; color: #c9d1d9;">
         Building a real-time multiplayer gaming platform with seamless gameplay, matchmaking, leaderboards, and live player interactions.
       </p>
     </td>
     <td width="4%" align="center" valign="middle">
-      <b style="font-size: 20px; color: #888;">—</b>
+      <b style="font-size: 20px; color: #3C83F6;">—</b>
     </td>
-    <td width="28%" align="center" valign="top" style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; background-color: #fafafa;">
-      <!-- <p align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="48" alt="Networking" />
-      </p> -->
-      <h4>Networking Social Platform</h4>
-      <p style="font-size: 13px; color: #555;">
+    <td width="30%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <h4 style="color: #E83F01; margin-top: 0;">Networking Social Platform</h4>
+      <p style="font-size: 13px; color: #c9d1d9;">
         Developing a modern social networking platform focused on professional and community connections with real-time engagement.
       </p>
     </td>
     <td width="4%" align="center" valign="middle">
-      <b style="font-size: 20px; color: #888;">—</b>
+      <b style="font-size: 20px; color: #E83F01;">—</b>
     </td>
-    <td width="28%" align="center" valign="top" style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; background-color: #fafafa;">
-      <!-- <p align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Tech/Robot.png" width="48" alt="AI Model" />
-      </p> -->
-      <h4>AI Model</h4>
-      <p style="font-size: 13px; color: #555;">
+    <td width="30%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <h4 style="color: #3C83F6; margin-top: 0;">AI Model</h4>
+      <p style="font-size: 13px; color: #c9d1d9;">
         Working on an AI model to power intelligent features such as recommendations, matchmaking, and personalization.
       </p>
     </td>
   </tr>
 </table>
 
-<hr />
-
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=boyalonetechs&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=boyalonetechs&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=boyalonetechs&show_icons=true&theme=tokyonight&title_color=3C83F6&icon_color=3C83F6&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=boyalonetechs&layout=compact&theme=tokyonight&title_color=E83F01&icon_color=E83F01&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
-
-
-
-
 
 ### 🛠️ Tech Stack
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <!-- 1. Frontend -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <h4 style="margin-top: 0; color: #3C83F6;">💻 Frontend</h4>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; color: #3C83F6;">💻 Frontend</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/React-3C83F6?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/Next.js-E83F01?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-                <img src="https://img.shields.io/badge/HTML5-E83F01?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-3C83F6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-3C83F6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img height="38" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img height="38" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img height="38" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img height="38" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img height="38" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       </p>
     </td>
     <!-- 2. Backend -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <h4 style="margin-top: 0; color: #E83F01;">⚙️ Backend</h4>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; color: #E83F01;">⚙️ Backend</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/Node.js-E83F01?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-3C83F6?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/PostgreSQL-E83F01?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Supabase-3C83F6?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Redis-E83F01?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/SQLite-3C83F6?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img height="38" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img height="38" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+        <img height="38" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img height="38" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img height="38" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+        <img height="38" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+        <img height="38" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
     </td>
   </tr>
   <tr style="border: none;">
     <!-- 3. Mobile -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <h4 style="margin-top: 0; color: #3C83F6;">📱 Mobile</h4>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; color: #3C83F6;">📱 Mobile</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/React%20Native-3C83F6?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-        <img src="https://img.shields.io/badge/Flutter-E83F01?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img height="38" src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+        <img height="38" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
       </p>
     </td>
     <!-- 4. Languages -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <h4 style="margin-top: 0; color: #E83F01;">🔤 Languages</h4>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; color: #E83F01;">🔤 Languages</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/TypeScript-E83F01?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Python-3C83F6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Rust-E83F01?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-        <img src="https://img.shields.io/badge/Dart-3C83F6?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-
-        <img src="https://img.shields.io/badge/SQL-E83F01?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/Bash-3C83F6?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+        <img height="38" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img height="38" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img height="38" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+        <img height="38" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+        <img height="38" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+        <img height="38" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
       </p>
     </td>
   </tr>
   <tr style="border: none;">
     <!-- Cloud & Storage -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <h4 style="margin-top: 0; color: #3C83F6;">☁️ Cloud & Storage</h4>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; color: #3C83F6;">☁️ Cloud & Storage</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/AWS-3C83F6?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-        <img src="https://img.shields.io/badge/Cloudflare-E83F01?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-        <img src="https://img.shields.io/badge/Cloudinary-3C83F6?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-        <img src="https://img.shields.io/badge/Wasabi-E83F01?style=for-the-badge&logo=wasabi&logoColor=white" alt="Wasabi" />
-        <img src="https://img.shields.io/badge/Vercel-3C83F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-        <img src="https://img.shields.io/badge/Docker-E83F01?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Netlify-3C83F6?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-        <img src="https://img.shields.io/badge/DigitalOcean-E83F01?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+        <img height="38" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+        <img height="38" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+        <img height="38" src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+        <img height="38" src="https://img.shields.io/badge/Wasabi-61AC27?style=for-the-badge&logo=wasabi&logoColor=white" alt="Wasabi" />
+        <img height="38" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+        <img height="38" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img height="38" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+        <img height="38" src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
       </p>
     </td>
     <!-- Version Control -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <h4 style="margin-top: 0; color: #E83F01;">🌿 Version Control</h4>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; color: #E83F01;">🌿 Version Control</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/Git-E83F01?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-3C83F6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/GitLab-E83F01?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+        <img height="38" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img height="38" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img height="38" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
       </p>
     </td>
   </tr>
   <tr style="border: none;">
     <!-- Tools & Design -->
-    <td colspan="2" width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <h4 style="margin-top: 0; color: #3C83F6;">🎨 Tools & Design</h4>
+    <td colspan="2" width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; color: #3C83F6;">🎨 Tools & Design</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/VS%20Code-3C83F6?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Linux-E83F01?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-        <img src="https://img.shields.io/badge/Postman-3C83F6?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-        <img src="https://img.shields.io/badge/Figma-E83F01?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+        <img height="38" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+        <img height="38" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        <img height="38" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+        <img height="38" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
       </p>
     </td>
   </tr>
 </table>
-
 
 ### 💭 Dev Quote
 
@@ -176,10 +158,7 @@ I enjoy working on complex projects that combine clean architecture with great u
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
-
-
 ---
-
 
 ### 🔗 Connect With Me
 
