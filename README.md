@@ -65,62 +65,55 @@ I enjoy working on complex projects that combine clean architecture with great u
 </p>
 
 
-<table border="0" cellspacing="0" cellpadding="10">
+<table border="0" cellspacing="0" cellpadding="10" align="center" style="margin: 0 auto; text-align: center;">
   <tr>
-    <td valign="top">
+    <td valign="top" align="left">
       <strong>💻 Frontend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
     </td>
-    <td valign="top">
+    <td valign="top" align="left">
       <strong>⚙️ Backend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,supabase,redis,sqlite" />
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" align="left">
       <strong>📱 Mobile</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,flutter" />
     </td>
-    <td valign="top">
+    <td valign="top" align="left">
       <strong>🔤 Languages</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=ts,py,rust,dart,mysql,bash" />
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" align="left">
       <strong>☁️ Cloud & Storage</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker,netlify" />
     </td>
-    <td valign="top">
+    <td valign="top" align="left">
       <strong>🌿 Version Control</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
     </td>
   </tr>
   <tr>
-    <td valign="top" colspan="2">
+    <td valign="top" colspan="2" align="left">
       <strong>🎨 Tools & Design</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=vscode,linux,postman,figma" />
     </td>
   </tr>
 </table>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 
-### 🔗 Connect With Me
+<h3 align="center">🔗 Connect With Me</h3>
 
-<p align="left">
-  <a href="https://x.com/boyalonetechs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/boyalonetechs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.tiktok.com/@boyalonetechs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://www.youtube.com/@boyalonetechs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<p align="center">
+  <a href="https://x.com/boyalonetechs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-4285F4?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/boyalonetechs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-4285F4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@boyalonetechs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-4285F4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.youtube.com/@boyalonetechs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-4285F4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://boyalonetechs.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:boyalonetechs@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:boyalonetechs@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
 <p align="center"><i>⭐️ From <a href="https://github.com/boyalonetechs">boyalonetechs</a></i></p>
