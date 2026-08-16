@@ -23,7 +23,9 @@ I enjoy working on complex projects that combine clean architecture with great u
 </p>
 
 
-### 🚀 Currently Working On
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontAlignY=35" width="100%" />
+</p>
 
 - **Multiplayer Gaming Platform** — Building a real-time multiplayer gaming platform with seamless gameplay, matchmaking, leaderboards, and live player interactions.
 
