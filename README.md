@@ -23,6 +23,12 @@ I enjoy working on complex projects that combine clean architecture with great u
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3C83F6&height=150&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontColor=FFFFFF&fontAlignY=35" width="100%" />
 </p>
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=boyalonetechs&theme=github-dark&hide_border=true" />
+</p>
+
+
 <table border="0" align="center" style="border-collapse: collapse; text-align: center; width: 100%;">
   <tr>
     <td width="30%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
@@ -53,13 +59,6 @@ I enjoy working on complex projects that combine clean architecture with great u
 </table>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=boyalonetechs&show_icons=true&theme=tokyonight&title_color=3C83F6&icon_color=3C83F6&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=boyalonetechs&layout=compact&theme=tokyonight&title_color=E83F01&icon_color=E83F01&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3C83F6&height=150&section=header&text=%F0%9F%9A%80%20Tech%20Stack%20&fontSize=24&fontAlignY=35&fontColor=FFFFFF" width="100%" />
